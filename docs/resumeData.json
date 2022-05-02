@@ -5,42 +5,32 @@
     "description": "I love vibrating air molecules in such a way that creates beautiful music",
     "image": "profilepic.jpg",
     "bio": "Did you just say you can play higher than me? You little shit bag. I'll have you know I graduated seven times from Juilliard magna cum laude.  I've been verablly and emotionally abused by Mark Gould to become the greatest lip buzzer the world has ever seen. I will wipe you out at NTC and ITG. Tomasi is childs play. Jolivet is a joke. You think you have what it takes? Think again, fucker. I can be anywhere, anytime, and can play a scale in over seven hundred ways, you worm. Not only am I classically trained in unarmed combat, I've been known to squash the jazzers with my bare hands. If only you would have held your tongue. I will have you blasted to smithereens on trumpetherald, and you will drown in your trumpet spit, you little shit. ",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage": "Let's chat!",
     "email": "grayson.gayle95@gmail.com",
     "phone": "817-897-6954",
     "address": {
-      "street": "(Your Street)",
+      "street": "",
       "city": "Austin",
       "state": "TX",
-      "zip": "(Your Zip/Postal Code)"
+      "zip": ""
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
-        "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
-      {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className": "fa fa-linkedin"
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCRhuAdCYNNw5Efr5wYDWjQQ",
+        "className": "fa fa-youtube"
       },
       {
         "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
+        "url": "http://instagram.com/grayson_gayle",
         "className": "fa fa-instagram"
       },
       {
-        "name": "github",
-        "url": "http://github.com/tbakerx",
-        "className": "fa fa-github"
+        "name": "facebook",
+        "url": "http://facebook.com/grayson.gayle",
+        "className": "fa fa-facebook"
       }
     ]
   },
@@ -126,42 +116,14 @@
         "category": "My Travel Blog for my post-university travels",
         "image": "canadian-wanderlust.jpg",
         "url": "https://www.canadianwanderlust.com"
-      },
-      {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "I wanted to be sure to reach out to let you know how much I appreciated your playing!  What a beautiful sound, and always so musical!!!",
+        "user": "Rob Mikulski, Director of Music Ministries - Zion Lutheran Church, San Antonio, TX"
       }
     ]
   }
