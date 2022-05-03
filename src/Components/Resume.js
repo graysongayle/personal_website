@@ -67,8 +67,8 @@ class Resume extends Component {
             <p className="info">
               Every student has the ability to succeed, and it is my job as a teacher to guide them towards
               their fullest potential, regardless of whether or not they choose to pursue music professionally. I
-              have high expectations for each of my students and demand a high level of excellence, but what
-              I find most important is the journey of development towards each student’s successes.
+              have high expectations for each of my students and demand a high level of excellence, but what I find most important
+              is progress towards their development as a musician.
               Cultivating their own musical voice is how each student will develop curiosity and creativity and
               discover their inner voice, their art, and themselves.
             </p>

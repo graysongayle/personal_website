@@ -37,7 +37,7 @@ e. Others
       HTML5 Doctor Reset - html5doctor.com/html-5-reset-stylesheet/
 /* ------------------------------------------------------------------ */
 
-html, body, div, span, object, iframe,
+html, body, div, span, object,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 abbr, address, cite, code,
 del, dfn, em, img, ins, kbd, q, samp,
@@ -56,6 +56,12 @@ time, mark, audio, video {
    font-size: 100%;
    vertical-align: baseline;
    background: transparent;
+}
+
+iframe {
+   padding: 10px;
+   width: 50%;
+   height: 300px;
 }
 
 article,aside,details,figcaption,figure,
@@ -713,6 +719,10 @@ properly.
    /* block grids left clearing */
    .first { clear: none; }
    .s-first { clear: left; }
+
+   iframe {
+      width: 100%;
+   }
 
 }
 
